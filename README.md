@@ -1,5 +1,5 @@
 # Senior Full-Stack Software Engineer
-.NET | Angular | Team Lead | Mentor | 10+ years automating complex business solutions in expressive, durable code
+.NET | Angular | Azure | Team Lead | Mentor | 10+ years automating complex business solutions in expressive, durable code
 
 I thrive in building and shipping quality software. For more than ten years, I have developed web, cloud, and desktop solutions for finance, retail, manufacturing, education, and defense. I pursue clean and maintainable code while reducing technical debt.
 
