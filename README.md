@@ -8,5 +8,5 @@ I thrive in building and shipping quality software. For more than ten years, I h
  - [Home](https://collinmbarrett.com/)
  - [LinkedIn](https://www.linkedin.com/in/collinbarrett)
  - [Resume](https://collinmbarrett.com/resume/pdf/)
- - [StackOverflow ]([https://stackoverflow.com/story/collinbarrett](https://stackoverflow.com/users/2343739/collin-barrett))
+ - [StackOverflow](https://stackoverflow.com/users/2343739/collin-barrett)
  - [Twitter](https://twitter.com/collinbarrett)
