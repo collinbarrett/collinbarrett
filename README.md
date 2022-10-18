@@ -9,7 +9,9 @@ I thrive in building and shipping quality software. For more than ten years, I h
  - [LinkedIn](https://www.linkedin.com/in/collinbarrett)
  - [Resume](https://collinmbarrett.com/resume/pdf/)
  - [StackOverflow](https://stackoverflow.com/users/2343739/collin-barrett)
+ - [DEV](https://dev.to/collinbarrett)
  - [Twitter](https://twitter.com/collinbarrett)
+ - [Goodreads](https://www.goodreads.com/collinbarrett)
 
 # Holopins
 
