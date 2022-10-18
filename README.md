@@ -10,3 +10,7 @@ I thrive in building and shipping quality software. For more than ten years, I h
  - [Resume](https://collinmbarrett.com/resume/pdf/)
  - [StackOverflow](https://stackoverflow.com/users/2343739/collin-barrett)
  - [Twitter](https://twitter.com/collinbarrett)
+
+# Holopins
+
+[![@collinbarrett's Holopin board](https://holopin.me/collinbarrett)](https://holopin.io/@collinbarrett)
