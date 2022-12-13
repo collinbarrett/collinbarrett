@@ -16,7 +16,3 @@ I thrive in building and shipping quality software. For more than ten years, I h
 # Holopins
 
 [![@collinbarrett's Holopin board](https://holopin.me/collinbarrett)](https://holopin.io/@collinbarrett)
-
-# Jetbrains Open Source Support Program
-
-Request ID=07122022/10764395
