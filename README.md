@@ -3,16 +3,10 @@
 
 I thrive in building and shipping quality software. For more than ten years, I have developed web, cloud, and desktop solutions for finance, retail, manufacturing, education, and defense. I pursue clean and maintainable code while reducing technical debt.
 
-# Links
+# Resume
 
- - [Home](https://collinmbarrett.com/)
- - [LinkedIn](https://www.linkedin.com/in/collinbarrett)
- - [Resume](https://collinmbarrett.com/resume/pdf/)
- - [StackOverflow](https://stackoverflow.com/users/2343739/collin-barrett)
- - [DEV](https://dev.to/collinbarrett)
- - [Twitter](https://twitter.com/collinbarrett)
- - [Goodreads](https://www.goodreads.com/collinbarrett)
-
+  - [PDF Resume](https://collinmbarrett.com/resume/pdf/)
+ 
 # Holopins
 
 [![@collinbarrett's Holopin board](https://holopin.me/collinbarrett)](https://holopin.io/@collinbarrett)
